@@ -4,3 +4,5 @@ git commit -m "text"
 git branch -M main
 git remote add origin "github repository link"
 git push -u origin main
+
+git pull origin main
